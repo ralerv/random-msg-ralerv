@@ -1,5 +1,5 @@
 {
-  "name": "npm-public",
+  "name": "random-msg-ralerv",
   "version": "1.0.0",
   "description": "Repository of Platzi's NPM Course Project",
   "main": "index.js",
@@ -15,6 +15,9 @@
   },
   "bin": {
     "random-str-msg": "./bin/global.js"
+  },
+  "bugs": {
+    "url": "hhttps://github.com/ralerv/random-msg-ralerv/issues"
   },
   "homepage": "https://github.com/ralerv/random-msg-ralerv#readme",
   "preferGlobal": true,
