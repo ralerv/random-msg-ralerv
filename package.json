@@ -10,8 +10,8 @@
   "author": "Ralerv <ramos_rrv@hotmail.com>",
   "license": "MIT",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/ralerv/random-msg-ralerv"
+    "type": "git",
+    "url": "https://github.com/ralerv/random-msg-ralerv"
   },
   "bin": {
     "random-str-msg": "./bin/global.js"
